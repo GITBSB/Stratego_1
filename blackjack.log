@@ -1,0 +1,1252 @@
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][AA][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][AA][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][06][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][AA][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][06][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][04][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][AA][AA][AA][AA][AA][AA] 1
+[02][02][03][06][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][04][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][AA][AA][AA][AA][AA] 1
+[02][02][03][06][AA][AA][AA][AA][AA][AA] 2
+[02][10][03][04][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][AA][AA][AA][AA][AA] 1
+[02][02][03][06][04][AA][AA][AA][AA][AA] 2
+[02][10][03][04][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][AA][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][AA][AA][AA][AA][AA] 1
+[02][02][03][06][04][AA][AA][AA][AA][AA] 2
+[02][10][03][04][05][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][AA][AA][AA][AA][AA] 1
+[02][02][03][06][04][AA][AA][AA][AA][AA] 2
+[02][10][03][04][05][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][AA][AA][AA][AA] 1
+[02][02][03][06][04][AA][AA][AA][AA][AA] 2
+[02][10][03][04][05][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][AA][AA][AA][AA] 1
+[02][02][03][06][04][05][AA][AA][AA][AA] 2
+[02][10][03][04][05][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][AA][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][AA][AA][AA][AA] 1
+[02][02][03][06][04][05][AA][AA][AA][AA] 2
+[02][10][03][04][05][03][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][AA][AA][AA][AA] 1
+[02][02][03][06][04][05][AA][AA][AA][AA] 2
+[02][10][03][04][05][03][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][06][AA][AA][AA] 1
+[02][02][03][06][04][05][AA][AA][AA][AA] 2
+[02][10][03][04][05][03][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][06][AA][AA][AA] 1
+[02][02][03][06][04][05][06][AA][AA][AA] 2
+[02][10][03][04][05][03][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][AA][AA][AA][AA] 0
+[02][02][01][03][04][05][06][AA][AA][AA] 1
+[02][02][03][06][04][05][06][AA][AA][AA] 2
+[02][10][03][04][05][03][08][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][AA][AA][AA] 0
+[02][02][01][03][04][05][06][AA][AA][AA] 1
+[02][02][03][06][04][05][06][AA][AA][AA] 2
+[02][10][03][04][05][03][08][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][AA][AA][AA] 0
+[02][02][01][03][04][05][06][08][AA][AA] 1
+[02][02][03][06][04][05][06][AA][AA][AA] 2
+[02][10][03][04][05][03][08][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][AA][AA][AA] 0
+[02][02][01][03][04][05][06][08][AA][AA] 1
+[02][02][03][06][04][05][06][09][AA][AA] 2
+[02][10][03][04][05][03][08][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][AA][AA][AA] 0
+[02][02][01][03][04][05][06][08][AA][AA] 1
+[02][02][03][06][04][05][06][09][AA][AA] 2
+[02][10][03][04][05][03][08][02][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][AA][AA] 0
+[02][02][01][03][04][05][06][08][AA][AA] 1
+[02][02][03][06][04][05][06][09][AA][AA] 2
+[02][10][03][04][05][03][08][02][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][AA][AA] 0
+[02][02][01][03][04][05][06][08][BO][AA] 1
+[02][02][03][06][04][05][06][09][AA][AA] 2
+[02][10][03][04][05][03][08][02][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][AA][AA] 0
+[02][02][01][03][04][05][06][08][BO][AA] 1
+[02][02][03][06][04][05][06][09][BO][AA] 2
+[02][10][03][04][05][03][08][02][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][AA][AA] 0
+[02][02][01][03][04][05][06][08][BO][AA] 1
+[02][02][03][06][04][05][06][09][BO][AA] 2
+[02][10][03][04][05][03][08][02][BO][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][BO][AA] 0
+[02][02][01][03][04][05][06][08][BO][AA] 1
+[02][02][03][06][04][05][06][09][BO][AA] 2
+[02][10][03][04][05][03][08][02][BO][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][BO][AA] 0
+[02][02][01][03][04][05][06][08][BO][BO] 1
+[02][02][03][06][04][05][06][09][BO][AA] 2
+[02][10][03][04][05][03][08][02][BO][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][BO][AA] 0
+[02][02][01][03][04][05][06][08][BO][BO] 1
+[02][02][03][06][04][05][06][09][BO][07] 2
+[02][10][03][04][05][03][08][02][BO][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][BO][AA] 0
+[02][02][01][03][04][05][06][08][BO][BO] 1
+[02][02][03][06][04][05][06][09][BO][07] 2
+[02][10][03][04][05][03][08][02][BO][03] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[02][02][07][04][05][06][07][BO][BO][FF] 0
+[02][02][01][03][04][05][06][08][BO][BO] 1
+[02][02][03][06][04][05][06][09][BO][07] 2
+[02][10][03][04][05][03][08][02][BO][03] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Spieler Bbb Figuren setzen!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[BB][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][BB][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][BB][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][BB][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][BB][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][BB][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][03][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][03][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][BB][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][BB][BB][BB][BB][BB][BB] 6
+[02][02][03][03][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][BB][BB][BB][BB][BB] 6
+[02][02][03][03][BB][BB][BB][BB][BB][BB] 7
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][BB][BB][BB][BB][BB] 6
+[02][02][03][03][04][BB][BB][BB][BB][BB] 7
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 8
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][BB][BB][BB][BB][BB] 6
+[02][02][03][03][04][BB][BB][BB][BB][BB] 7
+[02][02][03][04][05][BB][BB][BB][BB][BB] 8
+[02][02][03][04][BB][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][BB][BB][BB][BB][BB] 6
+[02][02][03][03][04][BB][BB][BB][BB][BB] 7
+[02][02][03][04][05][BB][BB][BB][BB][BB] 8
+[02][02][03][04][05][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][BB][BB][BB][BB] 6
+[02][02][03][03][04][BB][BB][BB][BB][BB] 7
+[02][02][03][04][05][BB][BB][BB][BB][BB] 8
+[02][02][03][04][05][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][BB][BB][BB][BB] 6
+[02][02][03][03][04][05][BB][BB][BB][BB] 7
+[02][02][03][04][05][BB][BB][BB][BB][BB] 8
+[02][02][03][04][05][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][BB][BB][BB][BB] 6
+[02][02][03][03][04][05][BB][BB][BB][BB] 7
+[02][02][03][04][05][06][BB][BB][BB][BB] 8
+[02][02][03][04][05][BB][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][BB][BB][BB][BB] 6
+[02][02][03][03][04][05][BB][BB][BB][BB] 7
+[02][02][03][04][05][06][BB][BB][BB][BB] 8
+[02][02][03][04][05][06][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][BB][BB][BB] 6
+[02][02][03][03][04][05][BB][BB][BB][BB] 7
+[02][02][03][04][05][06][BB][BB][BB][BB] 8
+[02][02][03][04][05][06][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][BB][BB][BB] 6
+[02][02][03][03][04][05][06][BB][BB][BB] 7
+[02][02][03][04][05][06][BB][BB][BB][BB] 8
+[02][02][03][04][05][06][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][BB][BB][BB] 6
+[02][02][03][03][04][05][06][BB][BB][BB] 7
+[02][02][03][04][05][06][08][BB][BB][BB] 8
+[02][02][03][04][05][06][BB][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][BB][BB][BB] 6
+[02][02][03][03][04][05][06][BB][BB][BB] 7
+[02][02][03][04][05][06][08][BB][BB][BB] 8
+[02][02][03][04][05][06][07][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BB][BB] 6
+[02][02][03][03][04][05][06][BB][BB][BB] 7
+[02][02][03][04][05][06][08][BB][BB][BB] 8
+[02][02][03][04][05][06][07][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BB][BB] 6
+[02][02][03][03][04][05][06][09][BB][BB] 7
+[02][02][03][04][05][06][08][BB][BB][BB] 8
+[02][02][03][04][05][06][07][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BB][BB] 6
+[02][02][03][03][04][05][06][09][BB][BB] 7
+[02][02][03][04][05][06][08][10][BB][BB] 8
+[02][02][03][04][05][06][07][BB][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BB][BB] 6
+[02][02][03][03][04][05][06][09][BB][BB] 7
+[02][02][03][04][05][06][08][10][BB][BB] 8
+[02][02][03][04][05][06][07][BO][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BB] 6
+[02][02][03][03][04][05][06][09][BB][BB] 7
+[02][02][03][04][05][06][08][10][BB][BB] 8
+[02][02][03][04][05][06][07][BO][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BB] 6
+[02][02][03][03][04][05][06][09][BO][BB] 7
+[02][02][03][04][05][06][08][10][BB][BB] 8
+[02][02][03][04][05][06][07][BO][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BB] 6
+[02][02][03][03][04][05][06][09][BO][BB] 7
+[02][02][03][04][05][06][08][10][BO][BB] 8
+[02][02][03][04][05][06][07][BO][BB][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BB] 6
+[02][02][03][03][04][05][06][09][BO][BB] 7
+[02][02][03][04][05][06][08][10][BO][BB] 8
+[02][02][03][04][05][06][07][BO][BO][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BO] 6
+[02][02][03][03][04][05][06][09][BO][BB] 7
+[02][02][03][04][05][06][08][10][BO][BB] 8
+[02][02][03][04][05][06][07][BO][BO][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BO] 6
+[02][02][03][03][04][05][06][09][BO][07] 7
+[02][02][03][04][05][06][08][10][BO][BB] 8
+[02][02][03][04][05][06][07][BO][BO][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BO] 6
+[02][02][03][03][04][05][06][09][BO][07] 7
+[02][02][03][04][05][06][08][10][BO][07] 8
+[02][02][03][04][05][06][07][BO][BO][BB] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BO] 6
+[02][02][03][03][04][05][06][09][BO][07] 7
+[02][02][03][04][05][06][08][10][BO][07] 8
+[02][02][03][04][05][06][07][BO][BO][02] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Figur gesetzt!
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
+INFO main stratego.view.tui - 
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 0
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 1
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 2
+[AA][AA][AA][AA][AA][AA][AA][AA][AA][AA] 3
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 4
+[  ][  ][--][--][  ][  ][--][--][  ][  ] 5
+[FF][02][01][03][04][05][06][08][BO][BO] 6
+[02][02][03][03][04][05][06][09][BO][07] 7
+[02][02][03][04][05][06][08][10][BO][07] 8
+[02][02][03][04][05][06][07][BO][BO][02] 9
+ A   B   C   D   E   F   G   H   I   J
+INFO main stratego.view.tui - 
+Testsetup
+INFO main stratego.view.tui - 
+Possible commands: q-quit, n-new game, f-setFigure, c-change player, r-ready, m-move/attack
