@@ -4,9 +4,9 @@ import stratego.entities.IFigure;
 import stratego.entities.impl.Player;
 
 public class NoFigure implements IFigure {
+	public static final String NO_FIGURE = "noFigure";
 
 	public NoFigure() {
-
 	}
 
 	public String toString() {
@@ -38,6 +38,6 @@ public class NoFigure implements IFigure {
 
 	@Override
 	public String getName() {
-		return null;
+		return NO_FIGURE;
 	}
 }

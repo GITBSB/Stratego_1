@@ -7,6 +7,7 @@ import org.apache.log4j.Logger;
 import com.google.inject.Inject;
 
 import stratego.controller.IController;
+import stratego.controller.impl.Controller;
 import stratego.entities.FigureSet;
 import stratego.entities.impl.GameStatus;
 import stratego.util.observer.IObserver;
@@ -40,13 +41,7 @@ public class TextUI implements IObserver{
             go = false;
             break;
         case"n":
-        	controller.testsetup();
-        	/*logger.info("Name Spieler 1?");
-        	String player1 = scanner.next();
-        	logger.info("Name Spieler 2?");
-        	String player2 = scanner.next();
-        	controller.enterPlayernames(player1, player2);
-        	controller.startGame();*/
+        	controller.startNewGame();
         	break;
         case"f":
         	if(controller.getGameStatus() != GameStatus.SET_FIGURES) {
@@ -71,10 +66,10 @@ public class TextUI implements IObserver{
         	logger.info("Koordinaten: Zahl,Buchstabe ");
         	String koord = scanner.next();
         	String[] tmpkoord = koord.split(",");
-        	controller.setFigure(tmpkoord[1].charAt(0), Integer.parseInt(tmpkoord[0]), figure);
+        	controller.setFigure(Controller.letterCode(tmpkoord[1].charAt(0)), Integer.parseInt(tmpkoord[0]), figure);
         	break;
         case"c":
-        	controller.changePlayer();
+        	controller.changePlayerTest();
         	break;
         case"m":
         	if(controller.getGameStatus() != GameStatus.FIGHT) {
@@ -86,8 +81,8 @@ public class TextUI implements IObserver{
         	logger.info("Wohin/Wen? Koordinaten: Zahl,Buchstabe");
         	String koord3 = scanner.next();
         	String[] tmpkoord3 = koord3.split(",");
-        	controller.move_attack(Integer.parseInt(tmpkoord2[0]), tmpkoord2[1].charAt(0),
-        					Integer.parseInt(tmpkoord3[0]), tmpkoord3[1].charAt(0));
+        	controller.move_attack(Integer.parseInt(tmpkoord2[0]), Controller.letterCode(tmpkoord2[1].charAt(0)),
+        					Integer.parseInt(tmpkoord3[0]), Controller.letterCode(tmpkoord3[1].charAt(0)));
         	break;
         case"r":
         	controller.ready_or_not();

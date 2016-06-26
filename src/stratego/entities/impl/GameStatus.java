@@ -4,5 +4,6 @@ public enum GameStatus {
 	NOT_STARTED,
 	SET_FIGURES,
 	FIGHT,
-	END;
+	END,
+	PLAYER_CHANGE;
 }

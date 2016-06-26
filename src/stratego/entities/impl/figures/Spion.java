@@ -5,9 +5,10 @@ import stratego.entities.IFigure;
 import stratego.entities.impl.Player;
 
 public class Spion extends AFigures implements IFigure {
+	public static final String SPION = "SPION";
 
 	public Spion(Player player) {
-		super(1, player, 1, "Spion");
+		super(1, player, 1, SPION);
 	}
 
 	public String toString() {

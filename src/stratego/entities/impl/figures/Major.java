@@ -5,9 +5,10 @@ import stratego.entities.IFigure;
 import stratego.entities.impl.Player;
 
 public class Major extends AFigures implements IFigure {
+	public static final String MAJOR = "Major";
 
 	public Major(Player player) {
-		super(7, player, 3, "Major");
+		super(7, player, 3, MAJOR);
 	}
 
 	public String toString() {

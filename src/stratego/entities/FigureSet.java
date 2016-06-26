@@ -21,18 +21,18 @@ public class FigureSet {
 	private Map<String, IFigure> figures;
 	public FigureSet(Player player) {
 		figures = new HashMap<String, IFigure>();
-		figures.put("S", new Spion(player));
-		figures.put("A", new Aufklärer(player));
-		figures.put("Mi", new Mineur(player));
-		figures.put("U", new Unteroffizier(player));
-		figures.put("L", new Leutnant(player));
-		figures.put("H", new Hauptmann(player));
-		figures.put("Ma", new Major(player));
-		figures.put("O", new Oberst(player));
-		figures.put("G", new General(player));
-		figures.put("M", new Marschall(player));
-		figures.put("B", new Bombe(player));
-		figures.put("F", new Fahne(player));
+		figures.put(Spion.SPION, new Spion(player));
+		figures.put(Aufklärer.AUFKLÄRER, new Aufklärer(player));
+		figures.put(Mineur.MINEUR, new Mineur(player));
+		figures.put(Unteroffizier.UNTEROFFIZIER, new Unteroffizier(player));
+		figures.put(Leutnant.LEUTNANT, new Leutnant(player));
+		figures.put(Hauptmann.HAUPTMANN, new Hauptmann(player));
+		figures.put(Major.MAJOR, new Major(player));
+		figures.put(Oberst.OBERST, new Oberst(player));
+		figures.put(General.GENERAL, new General(player));
+		figures.put(Marschall.MARSCHALL, new Marschall(player));
+		figures.put(Bombe.BOMBE, new Bombe(player));
+		figures.put(Fahne.FAHNE, new Fahne(player));
 	}
 
 	public IFigure getfigure(String s) {

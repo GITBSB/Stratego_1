@@ -25,7 +25,7 @@ public class Player {
 		return playerName;
 	}
 
-	private void setPlayerName(String playerName) {
+	public void setPlayerName(String playerName) {
 		this.playerName = playerName;
 	}
 

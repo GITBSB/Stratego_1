@@ -24,6 +24,10 @@ public class Grid {
 		IFigure mfigure = getField(i, j).deleteFigure();
 		getField(n, m).setFigure(mfigure);
 	}
+	
+	public void resetGrid() {
+		grid = new Grid();
+	}
 
 	public void createGrid() {
 
